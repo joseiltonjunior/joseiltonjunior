@@ -1,6 +1,6 @@
 ## Olá, me chamo Junior Ferreira e sou desenvolvedor e criador de conteúdos de programação e tecnologia!
 
-Atualmente focado em projetos Front-end com React e React Native (Javascript/Typescript) e com conhecimento em projetos Back-end com Node.js 
+Boa experiência em projetos Front-end com React e React Native (Javascript/Typescript) e com conhecimento em projetos Back-end com Node.js e C#
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -8,6 +8,7 @@ Atualmente focado em projetos Front-end com React e React Native (Javascript/Typ
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   </div>
   
   ##
