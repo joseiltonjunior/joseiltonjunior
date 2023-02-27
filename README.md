@@ -1,6 +1,6 @@
 ## Olá, me chamo Junior Ferreira e sou desenvolvedor e criador de conteúdos de programação e tecnologia!
 
-Experiência em projetos Front-end (React e React Native) e com conhecimento em projetos Back-end com Node.js e C#.
+Experiência em projetos Front-end (React e React Native) e com conhecimento em projetos Back-end (Node.js e C#).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
