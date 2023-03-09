@@ -1,4 +1,4 @@
-## Olá, me chamo Junior Ferreira e sou desenvolvedor e criador de conteúdos de programação e tecnologia!
+## Olá, me chamo Junior Ferreira e sou Desenvolvedor Front-end e aspirante a criador de conteúdos de programação e tecnologia!
 
 Apaixonado por Tecnologia e Desenvolvimento, tenho colaborado desde 2020 em projetos Front-end e Mobile e auxiliado em projetos Back-end.
 
