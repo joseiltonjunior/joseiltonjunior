@@ -1,4 +1,4 @@
-## Olá, me chamo Junior Ferreira sou Desenvolvedor Full-stack, criador de conteúdos de programação e tecnologia!
+## Olá, me chamo Junior Ferreira sou Desenvolvedor Full-stack e criador de conteúdos de programação!
 
 pt-BR: Apaixonado por Tecnologia e Desenvolvimento desde pequeno sempre fui curioso e quis estudar mais sobre, cursei suporte de hardware e redes e pude me aperfeiçoar mais durante meu tempo na caserna (Forças Armadas), mas foi a partir de  2018 que meu foco mudou para Desenvolvimento de Software e resolvi iniciar os estudos e buscar uma recolocação e finalmente em 2020 iniciei minha jornada atuando em projetos Mobile com React Native + Javascript, 2021 atuei em projetos Front-end com React + Typescript  e venho melhorando minhas skills Back-end utilizando Node + Typescript. Busco evoluir meus conhecimentos, aprender novas habilidades, colaborar com a comunidade, projetos open source e me tornar um desenvolvedor cada dia mais completo.
 
