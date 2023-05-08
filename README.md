@@ -1,6 +1,7 @@
-## Olá, me chamo Junior Ferreira e sou Desenvolvedor Front-end e aspirante a criador de conteúdos de programação e tecnologia!
+## Olá, me chamo Junior Ferreira e sou Desenvolvedor Full-stack criador de conteúdos de programação e tecnologia!
 
-Apaixonado por Tecnologia e Desenvolvimento, tenho colaborado desde 2020 em projetos Front-end e Mobile e auxiliado em projetos Back-end.
+Apaixonado por Tecnologia e Desenvolvimento desde pequeno sempre fui curioso e quis estudar mais sobre, cursei suporte de hardware e redes e pude me aperfeiçoar mais durante meu tempo na caserna (Forças Armadas), mas foi a partir de  2018 que meu foco mudou para Desenvolvimento de Software e resolvi iniciar os estudos e buscar uma recolocação e finalmente em 2020 iniciei minha jornada atuando em projetos Mobile com React Native + Javascript, 2021 atuei em projetos Front-end com React + Typescript  e venho melhorando minhas skills Back-end utilizando Node + Typescript. Busco evoluir meus conhecimentos, aprender novas habilidades, colaborar com a comunidade e projetos open source e me tornar um desenvolvedor cada dia mais completo.
+
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
