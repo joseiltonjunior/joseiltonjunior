@@ -1,8 +1,15 @@
 ## Olá, me chamo Junior Ferreira sou Desenvolvedor Full-stack e criador de conteúdos de programação!
 
-Apaixonado por tecnologia e desenvolvimento, iniciei minha jornada em 2020 atuando em projetos mobile com Javascript e React Native. Em 2021, quis entender mais sobre a web e atuei em projetos com Typescript e React.
-Atualmente, também atuo em projetos de backend com Typescript e Node, e tenho experiência em lidar com banco de dados.
-Procuro evoluir e adquirir novos conhecimentos para me tornar um desenvolvedor cada vez mais completo e capaz de solucionar problemas.
+Apaixonado por tecnologia e desenvolvimento, iniciei minha jornada em 2020 atuando em projetos Mobile com Javascript, React Native, consumo de APIs, Hooks, Redux, Agile, AWS, Design Patterns, Clean Code, Git Flow e outros.
+<br/>
+<br/>
+Em 2021, quis entender mais sobre desenvolvimento Web e atuei em projetos com Typescript, React, Hooks, consumo de APIs, Context API, Agile, Design Patterns, Clean Code, Azure, CI/CD, Testes (E2E e Automatizados).
+<br/>
+<br/>
+Atualmente, também atuo em projetos Backend e de Banco de Dados utilizando as demais tecnologias: Typescript, Node, Prisma, Docker, PostgreSQL, Fastify, JWT, Design Patterns, Clean Code, Testes Unitários, Testes E2E e outros.
+<br/>
+<br/>
+Procuro evoluir e adquirir novos conhecimentos diariamente, afins de me tornar um Desenvolvedor cada dia mais completo, capaz de solucionar problemas e colaborar com a comunidade.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
