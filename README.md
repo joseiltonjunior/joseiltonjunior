@@ -1,12 +1,8 @@
 ## Olá, me chamo Junior Ferreira sou Desenvolvedor Full-stack e criador de conteúdos de programação!
 
-pt-BR: Apaixonado por Tecnologia e Desenvolvimento desde pequeno sempre fui curioso e quis estudar mais sobre, cursei suporte de hardware e redes e pude me aperfeiçoar mais durante meu tempo na caserna (Forças Armadas), mas foi a partir de  2018 que meu foco mudou para Desenvolvimento de Software e resolvi iniciar os estudos e buscar uma recolocação e finalmente em 2020 iniciei minha jornada atuando em projetos Mobile com React Native + Javascript, 2021 atuei em projetos Front-end com React + Typescript  e venho melhorando minhas skills Back-end utilizando Node + Typescript. Busco evoluir meus conhecimentos, aprender novas habilidades, colaborar com a comunidade, projetos open source e me tornar um desenvolvedor cada dia mais completo.
-
-
-
-en-US: Passionate about technology and development since I was young, I've always been curious and wanted to learn more about it. I studied hardware support and networks and was able to improve myself during my time in the barracks (Armed Forces), but it was in 2018 that my focus shifted to software development. I decided to start studying and looking for a job opportunity and finally, in 2020, I started my journey working on Mobile projects with React Native + Javascript. In 2021, I worked on Front-end projects with React + Typescript and have been improving my Back-end skills using Node + Typescript. I seek to improve my knowledge, learn new skills, collaborate with the community, open-source projects, and become a more complete developer every day.
-
-
+Apaixonado por tecnologia e desenvolvimento, iniciei minha jornada em 2020 atuando em projetos mobile com Javascript e React Native. Em 2021, quis entender mais sobre a web e atuei em projetos com Typescript e React.
+Atualmente, também atuo em projetos de backend com Typescript e Node, e tenho experiência em lidar com banco de dados.
+Procuro evoluir e adquirir novos conhecimentos para me tornar um desenvolvedor cada vez mais completo e capaz de solucionar problemas.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
