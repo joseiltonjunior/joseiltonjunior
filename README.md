@@ -1,12 +1,11 @@
-## Olá, me chamo Junior Ferreira sou Desenvolvedor Full-stack e criador de conteúdos de programação!
+## Olá, sou Desenvolvedor Full-stack com experiência em projetos Mobile e Web.
 
-Apaixonado por tecnologia e desenvolvimento, iniciei minha jornada em 2020 atuando em projetos Mobile com Javascript, React Native, consumo de APIs, Hooks, Redux, Agile, AWS, Design Patterns, Clean Code, Git Flow e outros.
-<br/>
-<br/>
-Em 2021, quis entender mais sobre desenvolvimento Web e atuei em projetos com Typescript, React, Hooks, consumo de APIs, Context API, Agile, Design Patterns, Clean Code, Azure, CI/CD, Testes (E2E e Automatizados).
-<br/>
-<br/>
-Atualmente, também atuo em projetos Backend e de Banco de Dados utilizando as demais tecnologias: Typescript, Node, Prisma, Docker, PostgreSQL, Fastify, JWT, Design Patterns, Clean Code, Testes Unitários, Testes E2E e outros.
+Possuo habilidades sólidas com React Native, Javascript/Typescript, React, Next, Tailwind, Stripe, Styled-components, consumo de APIs, Redux, Hooks, i18next, Firebase, Metodologias Ágeis, Storybook, Design Patterns e Clean code, Testes entre outras techs.
+
+No campo dos projetos mobile, tive a oportunidade de desenvolver alguns aplicativos com destaque para dois aplicativos focados no transporte de motoristas e passageiros no estado de Pernambuco. 
+Quanto aos projetos web, eu destaco o desenvolvimento de um sistema de pagamento de faturas de clientes, utilizando React em substituição ao Vue.js. Além disso, implementei a opção de pagamento PIX, que não estava disponível anteriormente. Funcionalidade essa que foi muito bem recebida pelos clientes, resultando em uma forte adoção.
+
+Atualmente, estou expandindo minha área de atuação e desenvolvendo projetos Backend e Banco de dados. Possuo conhecimento com Node.js, Prisma, Fastify, Docker, Docker-compose, PostgreSQL, authToken, JWT, Zod, Swagger e outras techs.
 <br/>
 <br/>
 Procuro evoluir e adquirir novos conhecimentos diariamente, afins de me tornar um Desenvolvedor cada dia mais completo, capaz de solucionar problemas e colaborar com a comunidade.
