@@ -2,9 +2,6 @@
 
 Possuo habilidades sólidas com React Native, Javascript/Typescript, React, Next, Tailwind, Stripe, Styled-components, consumo de APIs, Redux, Hooks, i18next, Firebase, Metodologias Ágeis, Storybook, Design Patterns e Clean code, Testes entre outras techs.
 
-No campo dos projetos mobile, tive a oportunidade de desenvolver alguns aplicativos com destaque para dois aplicativos focados no transporte de motoristas e passageiros no estado de Pernambuco. 
-Quanto aos projetos web, eu destaco o desenvolvimento de um sistema de pagamento de faturas de clientes, utilizando React em substituição ao Vue.js. Além disso, implementei a opção de pagamento PIX, que não estava disponível anteriormente. Funcionalidade essa que foi muito bem recebida pelos clientes, resultando em uma forte adoção.
-
 Atualmente, estou expandindo minha área de atuação e desenvolvendo projetos Backend e Banco de dados. Possuo conhecimento com Node.js, Prisma, Fastify, Docker, Docker-compose, PostgreSQL, authToken, JWT, Zod, Swagger e outras techs.
 <br/>
 <br/>
